@@ -1,0 +1,14 @@
+# 本地运行产物
+build/
+dist/
+*.log
+
+# 安装时生成、包含本机路径
+config.json
+install.json
+backup/
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
